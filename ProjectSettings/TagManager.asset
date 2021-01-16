@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Room
+  - Tag
+  - Target
+  - LineRenderer
+  - Stair0
+  - Stair3
+  - Stair6
+  - Stair9
+  - Stair12
+  - Stair15
+  - Stair1
+  - StairWell0
+  - StairWell3
+  - StairWell6
+  - StairWell9
+  - StairWell12
+  - StairWell15
+  - Seeker
+  - Capsule
+  - VisualNode
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - UnWalkable
+  - Road
+  - Dirt
+  - Grass
+  - Room
+  - Space
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,17 @@
+PUP Nav. MAP v2.0 (prototype)
+
+to exit just alt+F4
+
+How to use:
+
+1. rooms shown here are clickable
+click a room to send a capsule on it's location
+2. after clicking a room, press the Set Starting Point Button to set the starting location
+3. click another room then press the Set End Point
+4.press Find Path to use the algorithm
+
+Notes:
+the rooms have the same floor number because I forgot to code it differently
+***IMPORTANT***
+if the floors is stuck when pressing the DOWN button for the first time,
+ press the UP button 6 times then press the down button again
